@@ -12,6 +12,10 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		27219ABE2B1270EB00C632A8 /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27219ABA2B1270EB00C632A8 /* Poppins-Bold.ttf */; };
+		27219ABF2B1270EB00C632A8 /* Poppins-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27219ABB2B1270EB00C632A8 /* Poppins-Italic.ttf */; };
+		27219AC02B1270EB00C632A8 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27219ABC2B1270EB00C632A8 /* Poppins-Regular.ttf */; };
+		27219AC12B1270EB00C632A8 /* Poppins-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27219ABD2B1270EB00C632A8 /* Poppins-Light.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-onlineShopping-onlineShoppingTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-onlineShopping-onlineShoppingTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
@@ -37,6 +41,14 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = onlineShopping/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = onlineShopping/main.m; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-onlineShopping-onlineShoppingTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-onlineShopping-onlineShoppingTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		27219AB62B12707500C632A8 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Italic.ttf"; path = "../src/assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		27219AB72B12707500C632A8 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		27219AB82B12707600C632A8 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
+		27219AB92B12707700C632A8 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		27219ABA2B1270EB00C632A8 /* Poppins-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Bold.ttf"; path = "../src/assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		27219ABB2B1270EB00C632A8 /* Poppins-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Italic.ttf"; path = "../src/assets/fonts/Poppins-Italic.ttf"; sourceTree = "<group>"; };
+		27219ABC2B1270EB00C632A8 /* Poppins-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Regular.ttf"; path = "../src/assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		27219ABD2B1270EB00C632A8 /* Poppins-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = "Poppins-Light.ttf"; path = "../src/assets/fonts/Poppins-Light.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-onlineShopping.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onlineShopping.debug.xcconfig"; path = "Target Support Files/Pods-onlineShopping/Pods-onlineShopping.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-onlineShopping.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onlineShopping.release.xcconfig"; path = "Target Support Files/Pods-onlineShopping/Pods-onlineShopping.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-onlineShopping-onlineShoppingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-onlineShopping-onlineShoppingTests.debug.xcconfig"; path = "Target Support Files/Pods-onlineShopping-onlineShoppingTests/Pods-onlineShopping-onlineShoppingTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -86,6 +98,7 @@
 		13B07FAE1A68108700A75B9A /* onlineShopping */ = {
 			isa = PBXGroup;
 			children = (
+				27219AB52B126FF500C632A8 /* Fonts */,
 				13B07FAF1A68108700A75B9A /* AppDelegate.h */,
 				13B07FB01A68108700A75B9A /* AppDelegate.mm */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
@@ -94,6 +107,17 @@
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
 			name = onlineShopping;
+			sourceTree = "<group>";
+		};
+		27219AB52B126FF500C632A8 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				27219AB72B12707500C632A8 /* Poppins-Bold.ttf */,
+				27219AB62B12707500C632A8 /* Poppins-Italic.ttf */,
+				27219AB82B12707600C632A8 /* Poppins-Light.ttf */,
+				27219AB92B12707700C632A8 /* Poppins-Regular.ttf */,
+			);
+			name = Fonts;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -116,6 +140,10 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				27219ABA2B1270EB00C632A8 /* Poppins-Bold.ttf */,
+				27219ABB2B1270EB00C632A8 /* Poppins-Italic.ttf */,
+				27219ABD2B1270EB00C632A8 /* Poppins-Light.ttf */,
+				27219ABC2B1270EB00C632A8 /* Poppins-Regular.ttf */,
 				13B07FAE1A68108700A75B9A /* onlineShopping */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* onlineShoppingTests */,
@@ -244,6 +272,10 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				27219ABE2B1270EB00C632A8 /* Poppins-Bold.ttf in Resources */,
+				27219ABF2B1270EB00C632A8 /* Poppins-Italic.ttf in Resources */,
+				27219AC02B1270EB00C632A8 /* Poppins-Regular.ttf in Resources */,
+				27219AC12B1270EB00C632A8 /* Poppins-Light.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -600,10 +632,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 			};
@@ -673,10 +702,7 @@
 					"-DFOLLY_MOBILE=1",
 					"-DFOLLY_USE_LIBCPP=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
